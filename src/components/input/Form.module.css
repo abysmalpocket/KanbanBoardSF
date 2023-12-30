@@ -1,0 +1,38 @@
+.form {
+	margin-top: 15px;
+	display: flex;
+	flex-direction: column;
+}
+
+.input {
+	display: block;
+	border: none;
+	border-radius: 5px;
+	margin-top: 8px;
+	padding: 12px;
+}
+
+.input::placeholder {
+	color: black;
+	font-size: 18px;
+
+}
+
+.textarea {
+	resize: none;
+	font-family: 'Lato', sans-serif;
+}
+
+.addButtonSubmit{
+	margin-top: 16px;
+	font-family: 'Roboto', sans-serif;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	background-color: #0079BF;
+	font-size: 18px;
+	cursor: pointer;
+	width: 102px;
+}
+
+

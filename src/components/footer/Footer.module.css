@@ -1,0 +1,22 @@
+.footer {
+	font-family: 'Roboto', sans-serif;
+	min-height: 55px;
+	background-color: #0067a3;
+	color: white;
+	display: flex;
+	justify-content: space-between;
+	padding: 5px 15px;
+	align-items: center;
+}
+
+.copy {
+	font-size: 18px;
+	margin-left: auto;
+}
+
+.left1 {
+	font-size: 18px;
+	display: flex;
+	gap: 10px;
+}
+

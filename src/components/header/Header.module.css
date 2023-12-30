@@ -1,0 +1,36 @@
+.header {
+	font-family: 'Roboto', sans-serif;
+	min-height: 55px;
+	background-color: #0067a3;
+	color: white;
+	display: flex;
+	justify-content: space-between;
+	padding: 5px 15px;
+	font-size: 28px;
+	align-items: center;
+}
+
+.title{
+	font-size: 28px;
+}
+
+.avatar {
+	display: flex;
+	justify-content: space-between;
+	gap: 5px;
+}
+
+.avatar img {
+	cursor: pointer;
+}
+
+.avatar div {
+	background-color: white;
+	border-radius: 50%;
+}
+
+.avatar div img {
+	width: 43px;
+	height: 35px;
+	cursor: pointer;
+}

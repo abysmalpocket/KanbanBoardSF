@@ -1,0 +1,7 @@
+.board {
+	font-size: 18px;
+	font-weight: regular;
+	color: #000000;
+	display: flex;
+	flex-wrap: wrap;
+}

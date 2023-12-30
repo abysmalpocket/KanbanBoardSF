@@ -1,0 +1,39 @@
+.wrapper {
+  background: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  width: 1842px;
+  height: 650px;
+  margin-right: 26px;
+  margin-top: 22px;
+}
+
+.page-task__contant-p {
+  width: 56%;
+  color: #000;
+}
+
+.input {
+  width: 50%;
+  padding: 7px 8px;
+  color: #000;
+  border: #c0cadc solid 2px;
+  border-radius: 5px;
+  background: #fff;
+}
+
+.pageButton {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.btn {
+  min-width: 108px;
+  margin-top: 17px;
+  padding: 10px 15px;
+  border-radius: 5px;
+  background: #0079bf;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}
